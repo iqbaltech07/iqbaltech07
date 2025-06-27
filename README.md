@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpweTMzeHdndms2MW9hbDF1MGF3ZHdiNHFyaTBjdzI2aHdmcDNnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
 - 🔭 I’m currently Studying At **Universitas Komputer Indonesia**
 
