@@ -63,8 +63,8 @@
 ## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
 
 <div>
-        <img src="https://streak-stats.demolab.com/?user=iqbaltech07&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" alt="Current Streak" />
-        <img src="https://github-readme-stats.vercel.app/api?username=iqbaltech07&theme=react&show_icons=true&hide_border=false&count_private=true" alt="Current Streak" />
+   <img src="https://streak-stats.demolab.com/?user=iqbaltech07&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" alt="Current Streak" />
+   <img src="https://github-readme-stats.vercel.app/api?username=iqbaltech07&theme=react&show_icons=true&hide_border=false&count_private=true" alt="Current Streak" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaltech07&theme=react&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
