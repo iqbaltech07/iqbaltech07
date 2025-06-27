@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Studying At **Universitas Komputer Indonesia**
 
-- 🌱 I’m currently learning **to be Backend Developer**
+- 🌱 I’m currently learning **Mobile Development**
 - 🎯 My goal is to become a **Fullstack Developer**
 
 - 👨‍💻 All of my projects are available at [https://codewithiqbal.my.id](https://codewithiqbal.my.id)
