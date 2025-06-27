@@ -67,7 +67,7 @@
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=iqbaltech07" alt="Current Streak" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=iqbaltech07&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" alt="Current Streak" /> </p>
 
 ###
 
