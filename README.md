@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/iqbaltech07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqbaltech07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iqbaltech07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqbaltech07" height="30" width="40" /></a>
-<a href="https://instagram.com/i.frdsyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.frdsyh" height="30" width="40" /></a>
+<a href="https://instagram.com/iqbalfry.dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalfry.dv" height="30" width="40" /></a>
 </p>
 
 ## 💻 <b>Languages and Tools</b>
