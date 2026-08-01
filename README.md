@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Mobile Development**
 - 🎯 My goal is to become a **Fullstack Developer**
 
-- 👨‍💻 All of my projects are available at [https://codewithiqbal.my.id](https://codewithiqbal.my.id)
+- 👨‍💻 All of my projects are available at [https://codewithiqbal.my.id](https://codewithiqbal.vercel.app)
 
 - 💬 Ask me about **Web Development or other Technology**
 
