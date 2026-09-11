@@ -10,7 +10,7 @@
 - 🔭 I’m currently Studying At **Universitas Komputer Indonesia**
 
 - 🌱 I’m currently learning **AI Engineering & Machine Learning**
-- 🎯 My goal is to become an **Senior AI Engineer**
+- 🎯 My goal is to become an **AI Engineer**
 
 - 👨‍💻 All of my projects are available at [https://codewithiqbal.my.id](https://codewithiqbal.vercel.app)
 
