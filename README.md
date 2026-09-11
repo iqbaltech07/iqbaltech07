@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm M Iqbal Ferdiansyah</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iqbaltech07&label=Profile%20views&color=0e75b6&style=flat" alt="iqbaltech07" /> </p>
 
@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently Studying At **Universitas Komputer Indonesia**
 
-- 🌱 I’m currently learning **Mobile Development**
-- 🎯 My goal is to become a **Fullstack Developer**
+- 🌱 I’m currently learning **AI Engineering & Machine Learning**
+- 🎯 My goal is to become an **Senior AI Engineer**
 
 - 👨‍💻 All of my projects are available at [https://codewithiqbal.my.id](https://codewithiqbal.vercel.app)
 
@@ -26,11 +26,15 @@
 
 <table>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI / Data Science:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow"/></td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,sequelize"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Fullstack:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap,ts,js,html,css"/></td>
     </tr>
     <tr>
@@ -80,4 +84,4 @@
 
 Credits: [iqbaltech07](https://github.com/iqbaltech07)
 
-Last Edited on: 27/06/2025
+Last Edited on: 11/09/2026
