@@ -7,7 +7,7 @@
 
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhuczB6bzRsYWRtZzJjNnQ2dGFnZzZpMXkzbWMzczkxYWlqa2Z4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif">
 
-- 🔭 I’m currently Studying At **Universitas Komputer Indonesia**
+- 🏫 Studied At **Universitas Komputer Indonesia**
 
 - 🌱 I’m currently learning **AI Engineering & Machine Learning**
 - 🎯 My goal is to become an **AI Engineer**
